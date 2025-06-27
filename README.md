@@ -1,2 +1,2 @@
-# ai-shell
+# ares-shell
 An AI-powered command-line shell using natural language.
